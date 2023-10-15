@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 class Rocket:
     def __init__(self, length, speed, brand) -> None:
